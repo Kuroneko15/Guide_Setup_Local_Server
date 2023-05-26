@@ -60,4 +60,5 @@
     sm_cvar sv_consistency 0 // sử dụng để người khác đỡ bị crash do bạn mod súng (1: Enable, 0: Disable) 
     ```
    - Bạn có thể tham khảo file listenserver.cfg của tôi nếu không biết setup Tickrate: [listenserver.cfg](https://github.com/Kuroneko15/My_server_setup/blob/main/listenserver.cfg)
-
+* 8 Slots Lobby Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=546656726&searchtext=8+slots+lobby
+    - Lựa chọn khác nếu muốn bắt đầu chỉ với 1 mình bạn: https://steamcommunity.com/sharedfiles/filedetails/?id=2754956355&searchtext=8+slots+lobby
