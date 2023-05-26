@@ -1,5 +1,4 @@
-# Guide_Setup_Survivor_Lobby
-**Cài đặt 8 Slots L4D2**
+# **Cài đặt 8 Slots L4D2**
 # Navigation
 > 2023/4/1 updated by [Harry](https://steamcommunity.com/profiles/76561198026784913)
 - [Navigation](#navigation)
