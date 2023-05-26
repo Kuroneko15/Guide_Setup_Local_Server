@@ -34,7 +34,7 @@
 * [Left-4-fix](https://github.com/LuxLuma/Left-4-fix): Sửa lỗi lặt vặt.
 
 * [Survivor Identity Fix for 5+ Survivors (Shadowysn Version)](https://forums.alliedmods.net/showpost.php?p=2718792&postcount=36)
-* * Hoặc [[L4D2]Character_manager (LuxLuma Version)](https://forums.alliedmods.net/showthread.php?t=309601)
+	- Hoặc [[L4D2]Character_manager (LuxLuma Version)](https://forums.alliedmods.net/showthread.php?t=309601)
 	- Chỉ chọn 1 cài cả 2 sẽ gây xung đột.
 
 * [l4dafkfix_deadbot](https://forums.alliedmods.net/showpost.php?p=2772050&postcount=54): Sửa lỗi khi bạn IDLE mà Bot chết. Bị nhảy sang spec.
