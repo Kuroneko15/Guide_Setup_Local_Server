@@ -1,38 +1,16 @@
 # **Cài đặt 8 Slots L4D2**
-# Navigation
-> 2023/4/1 updated by [Harry](https://steamcommunity.com/profiles/76561198026784913)
-- [Navigation](#navigation)
-    - [Introduction](#introduction)
-    - [Prepare](#prepare)
-    - [Require](#require)
-    - [Optional](#optional)
-    - [Fun](#fun)
-    - [Others](#others)
-	
-- - - -
-## Introduction
-> What's the simplest way to install 8-survivors-coop (Including 5+ players fix)?
-* [繁體中文](/Tutorial_教學區/Chinese_繁體中文/Game/L4D2/8位玩家遊玩戰役模式)
-* This tutorial applies to L4D1 and L4D2
-* [AlliedModeders Post](https://forums.alliedmods.net/showpost.php?p=2750588&postcount=4): Written by me
-* Dedicated Server can unlock 8+ or more player slots
-* Local listen Server only 8 players and unable to unlock 8+ or more player slots
-   - Local listen Server is unstable and easily crash because Sourcemod doesn't support listen server.
-* Including 5+ players fix
 
+## File Điều Kiện Phải Có:
+* [Sourcemod 1.11](https://www.sourcemod.net/downloads.php?branch=stable)
+* [Metamod 1.11](https://www.metamodsource.net/downloads.php?branch=stable)
+* [L4dtoolz](https://github.com/Accelerator74/l4dtoolz/releases)
+* Tùy chọn có thể cài hoặc không cần:
+* * [Stripper:Source](https://www.bailopan.net/stripper/snapshots/1.2/)
+* * [Left 4 DHooks Direct](https://forums.alliedmods.net/showthread.php?t=321696)
+* [L4D 1/2 Multi-Colors](https://github.com/fbef0102/L4D1_2-Plugins/releases/download/Multi-Colors/multicolors.zip)
+* [L4D 1/2 Colors](https://drive.google.com/file/d/1lHjhDIbWa6heb4j7aCPoc6r--FOiEwuT/view?usp=sharing)
 - - - -
-## Prepare
-* [Sourcemod] https://www.sourcemod.net/downloads.php?branch=stable
-* [Metamod](https://www.metamodsource.net/downloads.php?branch=stable)
-* [Stripper:Source](https://github.com/fbef0102/Game-Private_Plugin/tree/main/Tutorial_%E6%95%99%E5%AD%B8%E5%8D%80/English/Server/Install_Other_File#stripper)
-* [Left 4 DHooks Direct](https://forums.alliedmods.net/showthread.php?t=321696)
-* [8 Slots Lobby Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=546656726): You can have 8 slots lobby. <br/>
-   - 🟥Listen server only🟥
-   - 8 Slots Lobby Mod makes you unable to use ESC->Idle function，Install [AFK and Join Team Commands Improved](https://forums.alliedmods.net/showpost.php?p=2719702&postcount=32) to use command to afk.
-
-- - - -
-## Require
-* [l4dtoolz EXTENSION](https://github.com/fbef0102/Game-Private_Plugin/tree/main/Tutorial_%E6%95%99%E5%AD%B8%E5%8D%80/English/Server/Install_Other_File#l4dtoolz): Unlock server limit
+## Plugin và Setup mở rộng
    - write down cvars in cfg/server.cfg if dedicated server (🟥if file doesn't exist, create it🟥)
    - write down cvars in cfg/listenserver.cfg if listen server (🟥if file doesn't exist, create it🟥)
     ```php
