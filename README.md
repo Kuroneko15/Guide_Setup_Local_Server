@@ -2,12 +2,18 @@
 
 ## File Điều Kiện Phải Có:
 * [Sourcemod 1.11](https://www.sourcemod.net/downloads.php?branch=stable)
+* 
 * [Metamod 1.11](https://www.metamodsource.net/downloads.php?branch=stable)
+* 
 * [L4dtoolz](https://github.com/Accelerator74/l4dtoolz/releases)
-* Tùy chọn có thể cài hoặc không cần:
+## Tùy chọn có thể cài hoặc không cần:
+
 * * [Stripper:Source](https://www.bailopan.net/stripper/snapshots/1.2/)
+* 
 * * [L4D 1/2 Multi-Colors](https://github.com/fbef0102/L4D1_2-Plugins/releases/download/Multi-Colors/multicolors.zip)
+* 
 * * [L4D 1/2 Colors](https://drive.google.com/file/d/1lHjhDIbWa6heb4j7aCPoc6r--FOiEwuT/view?usp=sharing)
+* 
 * * [L4D2 Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases/download/build/Tickrate-Enabler-l4d2-def3795.zip)
 	- Bỏ **Tickrate_Fixes** nếu bạn sử dụng **Tickrate_Enable**.
 - - - -
