@@ -59,5 +59,5 @@
     sm_cvar precache_all_survivors 1 // Tải trước các model survivor để tránh crash
     sm_cvar sv_consistency 0 // sử dụng để người khác đỡ bị crash do bạn mod súng (1: Enable, 0: Disable) 
     ```
-   - Bạn có thể tham khảo file listenserver.cfg của tôi nếu không biết setup Tickrate: [listenserver.cfg]()
+   - Bạn có thể tham khảo file listenserver.cfg của tôi nếu không biết setup Tickrate: [listenserver.cfg](https://github.com/Kuroneko15/My_server_setup/blob/main/listenserver.cfg)
 
