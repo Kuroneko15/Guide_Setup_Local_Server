@@ -6,11 +6,16 @@
 * [L4dtoolz](https://github.com/Accelerator74/l4dtoolz/releases)
 * Tùy chọn có thể cài hoặc không cần:
 * * [Stripper:Source](https://www.bailopan.net/stripper/snapshots/1.2/)
-* * [Left 4 DHooks Direct](https://forums.alliedmods.net/showthread.php?t=321696)
-* [L4D 1/2 Multi-Colors](https://github.com/fbef0102/L4D1_2-Plugins/releases/download/Multi-Colors/multicolors.zip)
-* [L4D 1/2 Colors](https://drive.google.com/file/d/1lHjhDIbWa6heb4j7aCPoc6r--FOiEwuT/view?usp=sharing)
+* * [L4D 1/2 Multi-Colors](https://github.com/fbef0102/L4D1_2-Plugins/releases/download/Multi-Colors/multicolors.zip)
+* * [L4D 1/2 Colors](https://drive.google.com/file/d/1lHjhDIbWa6heb4j7aCPoc6r--FOiEwuT/view?usp=sharing)
+* * [L4D2 Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases/download/build/Tickrate-Enabler-l4d2-def3795.zip)
+	- Bỏ **Tickrate_Fixes** nếu bạn sử dụng **Tickrate_Enable**.
 - - - -
-## Plugin và Setup mở rộng
+## Plugin mở rộng - cài đặt - sửa lỗi
+* [Left 4 DHooks Direct](https://forums.alliedmods.net/showthread.php?t=321696)
+* [Extension-SourceScramble](https://github.com/nosoop/SMExt-SourceScramble/releases/download/0.7.1.1/package.zip)
+* 
+
    - write down cvars in cfg/server.cfg if dedicated server (🟥if file doesn't exist, create it🟥)
    - write down cvars in cfg/listenserver.cfg if listen server (🟥if file doesn't exist, create it🟥)
     ```php
