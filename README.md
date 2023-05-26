@@ -2,25 +2,38 @@
 
 ## File Điều Kiện Phải Có:
 * [Sourcemod 1.11](https://www.sourcemod.net/downloads.php?branch=stable)
-* 
 * [Metamod 1.11](https://www.metamodsource.net/downloads.php?branch=stable)
-* 
 * [L4dtoolz](https://github.com/Accelerator74/l4dtoolz/releases)
+
 ## Tùy chọn có thể cài hoặc không cần:
 
-* * [Stripper:Source](https://www.bailopan.net/stripper/snapshots/1.2/)
-* 
-* * [L4D 1/2 Multi-Colors](https://github.com/fbef0102/L4D1_2-Plugins/releases/download/Multi-Colors/multicolors.zip)
-* 
-* * [L4D 1/2 Colors](https://drive.google.com/file/d/1lHjhDIbWa6heb4j7aCPoc6r--FOiEwuT/view?usp=sharing)
-* 
-* * [L4D2 Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases/download/build/Tickrate-Enabler-l4d2-def3795.zip)
+* [Stripper:Source](https://www.bailopan.net/stripper/snapshots/1.2/) 
+* [L4D 1/2 Multi-Colors](https://github.com/fbef0102/L4D1_2-Plugins/releases/download/Multi-Colors/multicolors.zip)
+* [L4D 1/2 Colors](https://drive.google.com/file/d/1lHjhDIbWa6heb4j7aCPoc6r--FOiEwuT/view?usp=sharing)
+* [L4D2 Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases/download/build/Tickrate-Enabler-l4d2-def3795.zip)
 	- Bỏ **Tickrate_Fixes** nếu bạn sử dụng **Tickrate_Enable**.
 - - - -
 ## Plugin mở rộng - cài đặt - sửa lỗi
 * [Left 4 DHooks Direct](https://forums.alliedmods.net/showthread.php?t=321696)
 * [Extension-SourceScramble](https://github.com/nosoop/SMExt-SourceScramble/releases/download/0.7.1.1/package.zip)
-* 
+
+* Chọn 1 trong các plugin sau để add bot và điều chỉnh survivor:
+	- Plugin 8 slots được nhiều người tin dùng hiện nay, được cập nhật liên tục
+	- [MultiSlots Improved](https://github.com/fbef0102/L4D1_2-Plugins/tree/master/l4dmultislots) By Harry Potter.
+	- Chức năng add bot và kiểm soát trang bị người chơi 5+.
+	
+	- Đây là plugin tôi đang sử dụng và cũng khá ổn định.
+	- [ABM Alternative](https://forums.alliedmods.net/showpost.php?p=2748953&postcount=517) By Shadowysn.
+	- Với chức năng không kém cạnh Multislots, thêm vào đó là kiểm soát và tính toán cân bằng giữa SI và Survivor.
+
+	- Plugin tuy rằng đã lỗi thời nhưng vẫn có một vài server vẫn sử dụng
+	- [L4D2 Superversus](https://forums.alliedmods.net/showpost.php?p=2704058&postcount=1285) By Shao.
+	- Chức năng siêu mở rộng mà bạn có thể tùy chỉnh số lượng đám common zombie nhỏ số lượng SI spawn và thời gian.
+	- Do không có người update. Cũng không biết có hoạt động được nữa hay không.
+	
+
+
+
 
    - write down cvars in cfg/server.cfg if dedicated server (🟥if file doesn't exist, create it🟥)
    - write down cvars in cfg/listenserver.cfg if listen server (🟥if file doesn't exist, create it🟥)
