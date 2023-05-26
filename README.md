@@ -23,7 +23,7 @@ Cài đặt 8 Slots L4D2
 
 - - - -
 ## Prepare
-* [Sourcemod](https://www.sourcemod.net/downloads.php?branch=stable)
+* [Sourcemod] https://www.sourcemod.net/downloads.php?branch=stable
 * [Metamod](https://www.metamodsource.net/downloads.php?branch=stable)
 * [Stripper:Source](https://github.com/fbef0102/Game-Private_Plugin/tree/main/Tutorial_%E6%95%99%E5%AD%B8%E5%8D%80/English/Server/Install_Other_File#stripper)
 * [Left 4 DHooks Direct](https://forums.alliedmods.net/showthread.php?t=321696)
