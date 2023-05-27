@@ -26,7 +26,7 @@
      - Đây là plugin tôi đang sử dụng và cũng khá ổn định.
      - Với chức năng không kém cạnh Multislots, thêm vào đó là kiểm soát và tính toán cân bằng giữa SI và Survivor.
 
-* [L4D2 Superversus](https://forums.alliedmods.net/showpost.php?p=2704058&postcount=1285) By Shao.
+* [L4D2 Superversus](https://forums.alliedmods.net/showpost.php?p=2704058&postcount=1285)  + [Gamedata](https://forums.alliedmods.net/showpost.php?p=2724932&postcount=1322) By Shao.
      - Plugin tuy rằng đã lỗi thời nhưng vẫn có một vài server vẫn sử dụng
      - Chức năng siêu mở rộng mà bạn có thể tùy chỉnh số lượng đám common zombie nhỏ số lượng SI spawn và thời gian.
      - Do không có người update. Cũng không biết có hoạt động được nữa hay không.
@@ -44,7 +44,7 @@
 * * Lựa chọn khác [[L4D2] Transition Restore Fix](https://forums.alliedmods.net/showthread.php?t=336287)
 
 * [Survivor Set Flow Fix](https://forums.alliedmods.net/showthread.php?t=339155): Sửa lỗi map khi bạn ấn gọi rescure nhưng không hoạt động.
-* [[L4D/L4D2] Survivor Character Fixes ](https://forums.alliedmods.net/showthread.php?t=336328):Sửa lỗi nội bộ với Survivor Character
+* [[L4D/L4D2] Survivor Character Fixes ](https://forums.alliedmods.net/showthread.php?t=336328) + [Gamedata](https://forums.alliedmods.net/showpost.php?p=2804970&postcount=58): Sửa lỗi nội bộ với Survivor Character
 * [[L4D & L4D2] Mission and Weapons - Info Editor ](https://forums.alliedmods.net/showthread.php?t=310586)
 * [[L4D & L4D2] Use Priority Patch ](https://forums.alliedmods.net/showthread.php?t=327511)
 
@@ -62,3 +62,4 @@
    - Bạn có thể tham khảo file listenserver.cfg của tôi nếu không biết setup Tickrate: [listenserver.cfg](https://github.com/Kuroneko15/My_server_setup/blob/main/listenserver.cfg)
 * 8 Slots Lobby Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=546656726&searchtext=8+slots+lobby
     - Lựa chọn khác nếu muốn bắt đầu chỉ với 1 mình bạn: https://steamcommunity.com/sharedfiles/filedetails/?id=2754956355&searchtext=8+slots+lobby
+> Nếu không có lobby mod slots phòng sẽ không được mở rộng slots để tham gia và sẽ gây lỗi 10 retries.
