@@ -7,7 +7,7 @@
 
 ## Tùy chọn có thể cài hoặc không cần:
 
-* [Stripper:Source](https://www.bailopan.net/stripper/snapshots/1.2/) 
+* [Stripper:Source](https://www.bailopan.net/stripper/snapshots/1.2/stripper-1.2.2-hg82-windows.zip) 
 * [L4D 1/2 Multi-Colors](https://github.com/fbef0102/L4D1_2-Plugins/releases/download/Multi-Colors/multicolors.zip)
 * [L4D 1/2 Colors](https://drive.google.com/file/d/1lHjhDIbWa6heb4j7aCPoc6r--FOiEwuT/view?usp=sharing)
 * [L4D2 Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases/download/build/Tickrate-Enabler-l4d2-def3795.zip)
