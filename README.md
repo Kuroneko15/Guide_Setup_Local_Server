@@ -60,6 +60,12 @@
     sm_cvar sv_consistency 0 // sử dụng để người khác đỡ bị crash do bạn mod súng (1: Enable, 0: Disable) 
     ```
    - Bạn có thể tham khảo file listenserver.cfg của tôi nếu không biết setup Tickrate: [listenserver.cfg](https://github.com/Kuroneko15/My_server_setup/blob/main/listenserver.cfg)
+   > Nếu có sử dụng Tickrate Enable theo listenserver.cfg của mình bạn phải thêm giá trị ở Lauch Opition bằng cách:
+      - 1: Ấn chuột phải vào left4dead2 game trên danh sách game steam của bạn chọn **Properties (Thiết lập)**
+      - 2: Bạn sẽ thấy cuối cùng ở bên phải có **Lauch Option (Tùy chọn khởi động)**
+      - 3: Nhập lệnh -tickrate (số rate server của bạn). Ví dụ như của mình là -tickrate 40. 
+      - 4: Tắt cửa sổ đó khởi động game vào console gõ net_graph 1 để kiểm tra.
+  
 * 8 Slots Lobby Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=546656726&searchtext=8+slots+lobby
     - Lựa chọn khác nếu muốn bắt đầu chỉ với 1 mình bạn: https://steamcommunity.com/sharedfiles/filedetails/?id=2754956355&searchtext=8+slots+lobby
 > Nếu không có lobby mod slots phòng sẽ không được mở rộng slots để tham gia và sẽ gây lỗi 10 retries.
