@@ -18,7 +18,7 @@
 * [Extension-SourceScramble](https://github.com/nosoop/SMExt-SourceScramble/releases/download/0.7.1.1/package.zip)
 
 > Chọn 1 trong các plugin sau để add bot và điều chỉnh survivor:
-* [MultiSlots Improved (Harry Version)](https://forums.alliedmods.net/showpost.php?p=2715546&postcount=249) + [Require CreatSurvivorBot]([https://forums.alliedmods.net/showpost.php?p=2729883&postcount=16)(https://forums.alliedmods.net/attachment.php?attachmentid=185769&d=1608745336)).
+* [MultiSlots Improved (Harry Version)](https://forums.alliedmods.net/showpost.php?p=2715546&postcount=249) + [Require CreatSurvivorBot](https://forums.alliedmods.net/attachment.php?attachmentid=185769&d=1608745336)
      - Plugin 8 slots được nhiều người tin dùng hiện nay, được cập nhật liên tục
      - Chức năng add bot và kiểm soát trang bị người chơi 5+. Chú ý tải thêm phần Require.
 
@@ -31,7 +31,7 @@
      - Chức năng siêu mở rộng mà bạn có thể tùy chỉnh số lượng đám common zombie nhỏ số lượng SI spawn và thời gian.
      - Do không có người update. Cũng không biết có hoạt động được nữa hay không.
 	
-* [L4D2 Multiple Players (Lyseria Edit Version](https://github.com/Kuroneko15/l4d2_multiple_players) By Me.
+* [L4D2 Multiple Players (Lyseria Edit Version)](https://github.com/Kuroneko15/l4d2_multiple_players) By Me.
      - Có bảng trạng thái người chơi giống như superversus.
      - Được tích hợp nhiều tính năng của các plugin khác.
      - Nếu bạn sử dụng hãy đọc kỹ phần mở đầu để tránh những trường hợp lỗi xảy ra sau này.
