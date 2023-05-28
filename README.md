@@ -1,6 +1,6 @@
 # **Cài đặt 8 Slots L4D2**
 
-## File Điều Kiện Phải Có:
+## Yêu cầu - Requirements:
 * [Sourcemod 1.11](https://www.sourcemod.net/downloads.php?branch=stable)
 * [Metamod 1.11](https://www.metamodsource.net/downloads.php?branch=stable)
 * [Extension-l4dtoolz](https://github.com/Accelerator74/l4dtoolz/releases) By Accelerator74.
