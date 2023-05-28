@@ -18,7 +18,7 @@
 * [Extension-SourceScramble](https://github.com/nosoop/SMExt-SourceScramble/releases/download/0.7.1.1/package.zip)
 
 > Chọn 1 trong các plugin sau để add bot và điều chỉnh survivor:
-* [MultiSlots Improved (Harry Version)](https://forums.alliedmods.net/showpost.php?p=2715546&postcount=249) + [Require CreatSurvivorBot]([https://forums.alliedmods.net/showpost.php?p=2729883&postcount=16](https://forums.alliedmods.net/attachment.php?attachmentid=185769&d=1608745336)).
+* [MultiSlots Improved (Harry Version)](https://forums.alliedmods.net/showpost.php?p=2715546&postcount=249) + [Require CreatSurvivorBot]([https://forums.alliedmods.net/showpost.php?p=2729883&postcount=16)(https://forums.alliedmods.net/attachment.php?attachmentid=185769&d=1608745336)).
      - Plugin 8 slots được nhiều người tin dùng hiện nay, được cập nhật liên tục
      - Chức năng add bot và kiểm soát trang bị người chơi 5+. Chú ý tải thêm phần Require.
 
@@ -35,7 +35,7 @@
      - Có bảng trạng thái người chơi giống như superversus.
      - Được tích hợp nhiều tính năng của các plugin khác.
      - Nếu bạn sử dụng hãy đọc kỹ phần mở đầu để tránh những trường hợp lỗi xảy ra sau này.
-     - Có thể cài đặt hoặc không cần. [CreatSurvivorBot Dragokas Version]([https://forums.alliedmods.net/showpost.php?p=2729883&postcount=16]
+     - Có thể cài đặt hoặc không cần. [CreatSurvivorBot Dragokas Version]([https://forums.alliedmods.net/showpost.php?p=2729883&postcount=16)
      
 * [Left-4-fix](https://github.com/LuxLuma/Left-4-fix): Sửa lỗi lặt vặt.
 
