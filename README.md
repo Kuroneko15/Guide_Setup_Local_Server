@@ -50,7 +50,7 @@
 * * Lựa chọn khác [[L4D2] Transition Restore Fix](https://forums.alliedmods.net/showthread.php?t=336287)
 
 * [Survivor Set Flow Fix](https://forums.alliedmods.net/showthread.php?t=339155): Sửa lỗi map khi bạn ấn gọi rescure nhưng không hoạt động.
-* [[L4D/L4D2] Survivor Character Fixes ](https://forums.alliedmods.net/showthread.php?t=336328) + [Gamedata](https://forums.alliedmods.net/showpost.php?p=2804970&postcount=58): Sửa lỗi nội bộ với Survivor Character
+
 * [[L4D & L4D2] Mission and Weapons - Info Editor ](https://forums.alliedmods.net/showthread.php?t=310586)
 * [[L4D & L4D2] Use Priority Patch ](https://forums.alliedmods.net/showthread.php?t=327511)
 
