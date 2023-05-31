@@ -13,7 +13,7 @@
 * [L4D2 Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases/download/build/Tickrate-Enabler-l4d2-def3795.zip)
 	- Bỏ **Tickrate_Fixes** nếu bạn sử dụng **Tickrate_Enable**.
 - - - -
-## Plugin mở rộng - cài đặt - sửa lỗi
+## Plugin mở rộng - Cài đặt - Sửa lỗi
 * [Left 4 DHooks Direct](https://forums.alliedmods.net/showthread.php?t=321696)
 * [Extension-SourceScramble](https://github.com/nosoop/SMExt-SourceScramble/releases/download/0.7.1.1/package.zip)
 
