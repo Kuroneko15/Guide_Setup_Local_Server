@@ -52,7 +52,7 @@
 
 * [[L4D & L4D2] Mission and Weapons - Info Editor ](https://forums.alliedmods.net/showthread.php?t=310586)
 * [[L4D & L4D2] Use Priority Patch ](https://forums.alliedmods.net/showthread.php?t=327511)
-
+* [[L4D2] Script Command Swap - Mem Leak Fix (1.1)](https://forums.alliedmods.net/showthread.php?p=2657025)
 * Copy những cvar dưới đây vào 
     - left4dead2/cfg/listenserver.cfg (nếu không có hãy tụ tạo file)
     - left4dead2/cfg/sourcemod/sourcemod.cfg (nếu không có hãy tụ tạo file)
