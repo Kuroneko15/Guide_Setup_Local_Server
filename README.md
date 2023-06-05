@@ -12,6 +12,7 @@
 * [L4D 1/2 Colors](https://drive.google.com/file/d/1lHjhDIbWa6heb4j7aCPoc6r--FOiEwuT/view?usp=sharing)
 * [L4D2 Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases/download/build/Tickrate-Enabler-l4d2-def3795.zip)
 	- Bỏ **Tickrate_Fixes** nếu bạn sử dụng **Tickrate_Enable**.
+* [Rest in Pawn](https://github.com/ErikMinekus/sm-ripext/releases/download/1.3.1/sm-ripext-1.3.1-windows.zip): Cung cấp chuyển tiếp cho plugin.
 - - - -
 ## Plugin mở rộng - Cài đặt - Sửa lỗi
 * [Left 4 DHooks Direct](https://forums.alliedmods.net/showthread.php?t=321696)
