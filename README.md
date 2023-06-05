@@ -39,14 +39,14 @@
 * [Left-4-fix](https://github.com/LuxLuma/Left-4-fix): Sửa lỗi lặt vặt, nhưng rất quan khi chơi 8 slots.
 
 * [Survivor Identity Fix for 5+ Survivors (Shadowysn Version)](https://forums.alliedmods.net/showpost.php?p=2718792&postcount=36)
-     - Lựa chọn khác [[L4D2]Character_manager (LuxLuma Version)](https://forums.alliedmods.net/showthread.php?t=309601)
+     - Lựa chọn cùng loại [[L4D2]Character_manager (LuxLuma Version)](https://forums.alliedmods.net/showthread.php?t=309601)
 
 * [l4dafkfix_deadbot](https://forums.alliedmods.net/showpost.php?p=2772050&postcount=54): Sửa lỗi khi bạn IDLE mà Bot chết. Bị nhảy sang spec.
 
 * [8+ survivors in rescue vehicle](https://forums.alliedmods.net/showpost.php?p=2771588&postcount=53): Sửa lỗi khi đủ 8 người rescure mới xuất phát.
 
 * [Save Weapon Improved (Harry Version)](https://forums.alliedmods.net/showpost.php?p=2757629&postcount=113):Sửa lỗi mất vũ khí khi qua màn
-     - Lựa chọn khác [[L4D2] Transition Restore Fix](https://forums.alliedmods.net/showthread.php?t=336287)
+     - Lựa chọn cùng loại [[L4D2] Transition Restore Fix](https://forums.alliedmods.net/showthread.php?t=336287)
 
 * [Survivor Set Flow Fix](https://forums.alliedmods.net/showthread.php?t=339155): Sửa lỗi map khi bạn ấn gọi rescure nhưng không hoạt động.
 
