@@ -54,8 +54,8 @@
 * [[L4D & L4D2] Use Priority Patch ](https://forums.alliedmods.net/showthread.php?t=327511)
 * [[L4D2] Script Command Swap - Mem Leak Fix (1.1)](https://forums.alliedmods.net/showthread.php?p=2657025)
 * Copy những cvar dưới đây vào 
-    - left4dead2/cfg/listenserver.cfg (nếu không có hãy tụ tạo file)
-    - left4dead2/cfg/sourcemod/sourcemod.cfg (nếu không có hãy tụ tạo file)
+    - left4dead2/cfg/listenserver.cfg (nếu không có hãy tự tạo file)
+    - left4dead2/cfg/sourcemod/sourcemod.cfg (nếu không có nghĩa là bạn chưa cài left4hooks)
     ```php
     sv_maxplayers 8 // số người chơi tối đa trong server của bạn
     sv_visiblemaxplayers 8 // cài cho trùng số với số bên trên
