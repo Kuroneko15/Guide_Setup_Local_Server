@@ -5,7 +5,7 @@
 * [Metamod 1.11](https://www.metamodsource.net/downloads.php?branch=stable)
 * [Extension-l4dtoolz](https://github.com/Accelerator74/l4dtoolz/releases) By Accelerator74.
 
-## Tiện ích mở rộng đề cử hoặc không cần:
+## Đề cử thêm tiện ích hoặc không cần:
 
 * [Stripper:Source](https://www.bailopan.net/stripper/snapshots/1.2/stripper-1.2.2-hg82-windows.zip) 
 * [L4D 1/2 Multi-Colors](https://github.com/fbef0102/L4D1_2-Plugins/releases/download/Multi-Colors/multicolors.zip)
