@@ -11,9 +11,10 @@
 * [L4D 1/2 Multi-Colors](https://github.com/fbef0102/L4D1_2-Plugins/releases/download/Multi-Colors/multicolors.zip)
 * [L4D 1/2 Colors](https://drive.google.com/file/d/1lHjhDIbWa6heb4j7aCPoc6r--FOiEwuT/view?usp=sharing)
 * [L4D2 Tickrate Enabler](https://github.com/accelerator74/Tickrate-Enabler/releases/download/build/Tickrate-Enabler-l4d2-def3795.zip)
+> Cho nhưng ai am hiểu về code hoặc vài plugin có yêu cầu:
 * [Rest in Pawn](https://github.com/ErikMinekus/sm-ripext/releases/download/1.3.1/sm-ripext-1.3.1-windows.zip)
 * [SteamWorks](https://github.com/hexa-core-eu/SteamWorks/releases/download/v1.2.4/package-windows.zip)
-* [L4D2 Action](htps://forums.alliedmods.net/attachment.php?attachmentid=200618&d=1684484309)
+* [L4D2 Actions](https://forums.alliedmods.net/attachment.php?attachmentid=200618&d=1684484309)
 - - - -
 ## Plugin mở rộng - Cài đặt - Sửa lỗi
 * [Left 4 DHooks Direct](https://forums.alliedmods.net/showthread.php?t=321696)
