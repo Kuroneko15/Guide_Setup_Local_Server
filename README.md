@@ -26,7 +26,7 @@
      - Chức năng add bot và kiểm soát trang bị người chơi 5+. Chú ý tải thêm phần Require.
 
 * [ABM Alternative](https://forums.alliedmods.net/showpost.php?p=2748953&postcount=517) By Shadowysn.
-     - Đây là plugin tôi đang sử dụng và cũng khá ổn định.
+     - Đây là plugin tôi đã từng sử dụng và cũng khá ổn định.
      - Với chức năng không kém cạnh Multislots, thêm vào đó là kiểm soát và tính toán cân bằng giữa SI và Survivor.
 
 * [L4D2 Superversus](https://forums.alliedmods.net/showpost.php?p=2704058&postcount=1285)  + [Gamedata](https://forums.alliedmods.net/showpost.php?p=2724932&postcount=1322) By Shao.
@@ -35,6 +35,7 @@
      - Do không có người update. Cũng không biết có hoạt động được nữa hay không.
 	
 * [L4D2 Multiple Players (Lyseria Edit Version)](https://github.com/Kuroneko15/l4d2_multiple_players) By Me.
+     - Thay thế và tổng hợp của Mutislot và Superverus.
      - Có bảng trạng thái người chơi giống như superversus.
      - Được tích hợp nhiều tính năng của các plugin khác.
      - Nếu bạn sử dụng hãy đọc kỹ phần mở đầu để tránh những trường hợp lỗi xảy ra sau này.
