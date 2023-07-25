@@ -39,6 +39,7 @@
      - Có bảng trạng thái người chơi giống như superversus.
      - Được tích hợp nhiều tính năng của các plugin khác.
      - Nếu bạn sử dụng hãy đọc kỹ phần mở đầu để tránh những trường hợp lỗi xảy ra sau này.
+     - Plugin tích hợp toàn bộ tính năng sửa lỗi trong bài này, bạn chỉ cần cài thêm [defib_fix](https://forums.alliedmods.net/attachment.php?attachmentid=199744&d=1677587553) nữa là được.
      
 * [l4d2_vocalizebasedmodel (Lyseria Version)](https://github.com/Kuroneko15/l4d2_vocalizebasedmodel): Sửa lỗi 8 nhân vật nhưng bị lệch voice.
 * [Left-4-fix](https://github.com/LuxLuma/Left-4-fix): Sửa lỗi lặt vặt, nhưng rất quan khi chơi 8 slots.
