@@ -3,7 +3,7 @@
 ## Yêu cầu - Requirements:
 * [Sourcemod 1.11](https://www.sourcemod.net/downloads.php?branch=stable)
 * [Metamod 1.11](https://www.metamodsource.net/downloads.php?branch=stable)
-* [Extension-l4dtoolz](https://github.com/Accelerator74/l4dtoolz/releases) By Accelerator74.
+* [l4dtoolz](https://github.com/Accelerator74/l4dtoolz/releases) by Accelerator74.
 
 ## Đề cử thêm tiện ích hoặc không cần:
 
@@ -14,7 +14,6 @@
 > Cho nhưng ai am hiểu về code hoặc vài plugin có yêu cầu:
 * [Rest in Pawn](https://github.com/ErikMinekus/sm-ripext/releases/download/1.3.1/sm-ripext-1.3.1-windows.zip)
 * [SteamWorks](https://github.com/hexa-core-eu/SteamWorks/releases/download/v1.2.4/package-windows.zip)
-* [L4D2 Actions](https://forums.alliedmods.net/attachment.php?attachmentid=200618&d=1684484309)
 - - - -
 ## Plugin mở rộng - Cài đặt - Sửa lỗi
 * [Left 4 DHooks Direct](https://forums.alliedmods.net/showthread.php?t=321696)
