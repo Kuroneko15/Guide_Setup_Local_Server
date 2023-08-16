@@ -14,10 +14,6 @@
 > Cho nhưng ai am hiểu về code hoặc vài plugin có yêu cầu:
 * [Rest in Pawn](https://github.com/ErikMinekus/sm-ripext/releases/download/1.3.1/sm-ripext-1.3.1-windows.zip)
 * [SteamWorks](https://github.com/hexa-core-eu/SteamWorks/releases/download/v1.2.4/package-windows.zip)
-* [[L4D2] Actions](https://forums.alliedmods.net/showthread.php?t=336374)
-* [DoS Protect](https://forums.alliedmods.net/attachment.php?attachmentid=197137)
-* [Small Fix Crash](https://github.com/L4D-Community/builtinvotes/suites/13993447599/artifacts/780657704)
-* [Collisionhook](https://github.com/L4D-Community/Collisionhook/suites/13993458671/artifacts/780658418)
 - - - -
 ## Plugin mở rộng - Cài đặt - Sửa lỗi
 * [Left 4 DHooks Direct](https://forums.alliedmods.net/showthread.php?t=321696)
@@ -42,7 +38,7 @@
      - Có bảng trạng thái người chơi giống như superversus.
      - Được tích hợp nhiều tính năng của các plugin khác.
      - Nếu bạn sử dụng hãy đọc kỹ phần mở đầu để tránh những trường hợp lỗi xảy ra sau này.
-     - Plugin tích hợp toàn bộ tính năng sửa lỗi trong bài này, bạn chỉ cần cài thêm [defib_fix](https://forums.alliedmods.net/attachment.php?attachmentid=199744&d=1677587553) nữa là được.
+     - Plugin tích hợp toàn bộ tính năng sửa lỗi trong bài này, bạn chỉ cần cài thêm [Defib_fix](https://forums.alliedmods.net/attachment.php?attachmentid=199744&d=1677587553) nữa là được.
      
 * [l4d2_vocalizebasedmodel (Lyseria Version)](https://github.com/Kuroneko15/l4d2_vocalizebasedmodel): Sửa lỗi 8 nhân vật nhưng bị lệch voice.
 * [Left-4-fix](https://github.com/LuxLuma/Left-4-fix): Sửa lỗi lặt vặt, nhưng rất quan khi chơi 8 slots.
