@@ -19,18 +19,20 @@
 > Chọn 1 trong các plugin sau để add bot và điều chỉnh survivor:
 * [MultiSlots Improved (Harry Version)](https://forums.alliedmods.net/showpost.php?p=2715546&postcount=249) + [Require CreatSurvivorBot](https://forums.alliedmods.net/attachment.php?attachmentid=185769&d=1608745336)
      - Plugin 8 slots được nhiều người tin dùng hiện nay, được cập nhật liên tục
+     - Cài đặt cfg hơi dườm dà nhưng nếu bạn hiểu tiếng anh thì không có gì là khó.
      - Chức năng add bot và kiểm soát trang bị người chơi 5+. Chú ý tải thêm phần Require.
 
 * [ABM Alternative](https://forums.alliedmods.net/showpost.php?p=2748953&postcount=517) By Shadowysn.
      - Đây là plugin tôi đã từng sử dụng và cũng khá ổn định.
+     - Sau đợt update gần đây khả năng crash hơi cao.
      - Với chức năng không kém cạnh Multislots, thêm vào đó là kiểm soát và tính toán cân bằng giữa SI và Survivor.
 
 * [L4D2 Superversus](https://forums.alliedmods.net/showpost.php?p=2704058&postcount=1285)  + [Gamedata](https://forums.alliedmods.net/showpost.php?p=2724932&postcount=1322) By Shao.
-     - Plugin tuy rằng đã lỗi thời nhưng vẫn có một vài server vẫn sử dụng
+     - Plugin tuy rằng đã lỗi thời và khuyên không nên dùng
      - Chức năng siêu mở rộng mà bạn có thể tùy chỉnh số lượng đám common zombie nhỏ số lượng SI spawn và thời gian.
      - Do không có người update. Cũng không biết có hoạt động được nữa hay không.
 	
-* [L4D2 Multiple Players (Lyseria Edit Version)](https://github.com/Kuroneko15/l4d2_multiple_players) By Me.
+* [L4D2 Managerment System (Kuroneko Edit Version)](https://github.com/Kuroneko15/l4d2_management_system).
      - Thay thế và tổng hợp của Mutislot và Superverus.
      - Có bảng trạng thái người chơi giống như superversus.
      - Được tích hợp nhiều tính năng của các plugin khác.
